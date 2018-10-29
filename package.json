@@ -5,7 +5,7 @@
   "main": "bin/main.js",
   "scripts": {
     "build": "tsc -w",
-    "start:electron" : "electron ."
+    "start:electron": "electron ."
   },
   "repository": {
     "type": "git",
@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/myungjaeyu/tgrid-electron-poc#readme",
   "dependencies": {
-    "electron": "^3.0.6"
+    "electron": "^3.0.6",
+    "tgrid": "0.0.15"
   },
   "devDependencies": {
     "@types/electron": "^1.6.10",
