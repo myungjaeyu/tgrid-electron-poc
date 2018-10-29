@@ -6,7 +6,7 @@
   "scripts": {
     "build": "tsc -w",
     "start:electron": "electron .",
-    "start:server": "node bin/server"
+    "__start:server": "node bin/__server"
   },
   "repository": {
     "type": "git",
