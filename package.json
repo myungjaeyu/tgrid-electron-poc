@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/myungjaeyu/tgrid-electron-poc/issues"
   },
-  "homepage": "https://github.com/myungjaeyu/tgrid-electron-poc#readme"
+  "homepage": "https://github.com/myungjaeyu/tgrid-electron-poc#readme",
+  "dependencies": {
+    "electron": "^3.0.6"
+  }
 }
